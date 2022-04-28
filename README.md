@@ -1,2 +1,2 @@
-# sparataclub-frontend
+# spartaclub-frontend
 Frontend project
